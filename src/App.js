@@ -4,7 +4,7 @@ import Titles from "./components/Titles";
 import Form from "./components/Form.js";
 import Weather from "./components/Weather"
 
-const API_KEY = "92aa41220f3274d87538442b4d58ae62";
+const API_KEY = "nope";
 
 
 
